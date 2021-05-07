@@ -1,6 +1,6 @@
 # Code Refactor
 
-For this exercise I cleaned up html code provided by Trinity Education Services to both be more accessable and to meet a set of standards that matched the user story provided below. 
+For this exercise I cleaned up html code provided by Trinity Education Services to both be more accessable and to meet a set of standards that matched the user story and acceptance criteria provided below. 
 
 Through doing this I learned a bit about different ways I could improve the web accessibility of projects I create in the future.
 
